@@ -1,5 +1,4 @@
 <script lang="ts">
-  import Header from "./header.svelte";
 </script>
 
 
@@ -12,7 +11,6 @@
 
 
 
-<!-- svelte-ignore css_unused_selector -->
 <style>
   :global(*) {
     margin: 0;

@@ -3,6 +3,8 @@
     import Header from './header.svelte';
 </script>
 
-<Header />
+<main>
+    <Header />
+</main>
 
 {@render children()}

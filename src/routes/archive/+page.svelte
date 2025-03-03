@@ -3,6 +3,8 @@
 </script>
 
 <main>
+    <hr>
+    <br>
     
     
     
@@ -42,11 +44,11 @@
 
 
     h2{
-        color: #B16286;
+        color: #89B482;
     }
 
     ul li {
-        color: #D3869B;
+        color: #A9B665;
     }
 
 </style>
