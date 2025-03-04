@@ -10,7 +10,7 @@
 
     <a href="/blogs/LinuxExp" class="blogLinkContainer">
         <h4 >My Linux Experience </h4>
-        <span>12-3-2024</span>
+        <span>1-1-2025</span>
     </a>
 </main>
 

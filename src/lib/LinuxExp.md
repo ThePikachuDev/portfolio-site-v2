@@ -1,6 +1,14 @@
 <br>
 
+<img src="../../windows 10 logo .jpeg" alt="windows Logo">
+
+<br>
+<br>
+
+
 # Windows sucks
+
+<br>
 
 everyone starts with windows when they got new pc and have zero programming Expereince . I also started my coding journey on windows 10 when i got my new pc. 
 
@@ -10,6 +18,8 @@ I was then just an average vs code user and a so cold full stack developer . i w
 
 # Transitioning to linux 
 
+<br>
+
 One day my pc stops working due to overheighting of my cpu ( 90 degree plus at desktop ) , i cleaned my pc's cabinet and replaced the thermal paste over it but it was still high , so i got very very frustrated and started my research about linux and which distro i should use. 
 
 I ended up with linux mint after some days of research , so i took my 16gb usb stick and booted up linux mint and completely deleted windows from my pc . it was fresh and a satisfying expereince afterall.
@@ -17,6 +27,7 @@ I ended up with linux mint after some days of research , so i took my 16gb usb s
 <br>
 
 # The Distro hooping 
+<br>
 
 I used linux mint for 1 or 2 months and I hightly recommend begginner to start with linux mint . it was a very clean experience, i didn't touched my terminal once except installing some apps. 
 
@@ -42,3 +53,26 @@ My Current setup :
 - Vencord as my Discord app
 - Games - Minecraft 
 - browser - Brave
+
+
+
+<style>
+    h1{
+        color: rgb(248, 248, 248);
+    }
+
+    p{
+        color: rgb(215, 219, 222);
+    }
+    img{
+        max-width: 100%;
+        height: 60vh;
+        background-color: salmon;
+        border-radius: 15px;
+        object-position: center;
+}
+a{
+    text-decoration: none;
+    color: rgb(121, 132, 132);
+  }
+</style>
