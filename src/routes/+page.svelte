@@ -27,7 +27,7 @@
 
   :global(main) {
     background-color: rgb(31, 27, 27);
-    color: #b8bb26;
+    color: azure;
     font-family: "IBM Plex Mono", monospace;
     font-style: normal;
     padding: 0 2rem;
@@ -39,7 +39,7 @@
     margin: 0;
     padding: 0;
     background-color: rgb(31, 27, 27);
-    color: #b8bb26;
+    color: azure;
     font-family: "IBM Plex Mono", monospace;
     font-style: normal;
   }

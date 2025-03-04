@@ -44,11 +44,11 @@
 
 
     h2{
-        color: #89B482;
+        color: #e4dddd;
     }
 
     ul li {
-        color: #A9B665;
+        color: rgb(194, 196, 196);
     }
 
 </style>

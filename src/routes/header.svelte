@@ -35,7 +35,7 @@
 
   a{
     text-decoration: none;
-    color: #B8BB26;
+    color: rgb(194, 196, 196);
   }
 
 </style>
