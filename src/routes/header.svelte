@@ -1,17 +1,17 @@
 <script lang="ts">
 </script>
 
-<body>
+
   <nav>
     <ul>
       <li><a href="/">./Home</a></li>
-      <li><a href="/blogs">./Blog</a></li>
+      <li><a href="/blogs">./Blogs</a></li>
       <li><a href="/archive">./Archive</a></li>
   </ul>
      
   </nav>
   
-</body>
+
 
 <style>
   nav{

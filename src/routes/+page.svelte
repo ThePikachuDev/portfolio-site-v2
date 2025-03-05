@@ -31,6 +31,7 @@
     font-family: "IBM Plex Mono", monospace;
     font-style: normal;
     padding: 0 2rem;
+    overflow: hidden;
   }
 
   :global(html, body) {
