@@ -23,9 +23,9 @@
         display: flex;
         align-items: center;
         justify-content: space-between;
-        position: absolute;
-        bottom: 0;
-        left: 0;
+        position: static;
+        /* bottom: 0;
+        left: 0; */
         width: 100vw;
         padding: 1vw 2vw;
     }

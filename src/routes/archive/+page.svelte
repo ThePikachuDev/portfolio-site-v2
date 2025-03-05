@@ -9,6 +9,7 @@
     
     
     <h2>Anime i have watched :</h2>
+    <br>
     <ul>
         <li>Naruot</li>
         <li>Pokemon</li>
@@ -21,11 +22,15 @@
         <li>Solo Leveling</li>
         <li>One Piece</li>
         <li>Your Name</li>
+        <li>Terror in Resonance</li>
+
     </ul>
+
 
     <br>
 
     <h2>Books i read ( or reading)</h2>
+    <br>
     <ul>
         <li>Zero To One</li>
         <li>How to Win Friends and influence people</li>
@@ -33,6 +38,8 @@
         <li>The Go Programming language</li>
     </ul>
 
+    <br>
+    <br>
 
 </main>
 
@@ -40,6 +47,8 @@
 
     main {
         overflow: hidden;
+        width: 100vw;
+        height: fit-content;
     }
 
 
@@ -49,6 +58,7 @@
 
     ul li {
         color: rgb(194, 196, 196);
+        padding: 4px;
     }
 
 </style>

@@ -37,6 +37,8 @@ after some time , i saw fedora linux and it was fabolous .It looked cool and it 
 
 # The hyprland arc
 
+<br>
+
 after setting up my os for work and studies , i saw r/unixporn posts , they were so cool and amazing . so i decided to give it a shot and i installed and riced hyprland by typecraft's [playlist](https://www.youtube.com/watch?v=2CP_9-jCV6A&list=PLsz00TDipIfeDrFeSA56W1wPrYYg_Kd-b) they were pretty good and helpfull. i tried other windows tilling managers as well like i3wm. they all were pretty good but they also requires a lot of efforts to get started as well. 
 
 this is the time when i actually started using my terminal instead of that creppy electron and gui apps . i leant neovim from primeagens [playlist](https://www.youtube.com/watch?v=X6AR2RMB5tE&list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R) and also tried many cool cli tools like yazi, btop and many more.
@@ -54,6 +56,8 @@ My Current setup :
 - Games - Minecraft 
 - browser - Brave
 
+<br>
+<br>
 
 
 <style>
@@ -64,6 +68,7 @@ My Current setup :
     p{
         color: rgb(215, 219, 222);
     }
+
     img{
         max-width: 100%;
         height: 60vh;

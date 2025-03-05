@@ -16,6 +16,10 @@
 
 <style>
 
+    main{
+        width: 100vw;
+        height: 90vh;
+    }
     .blogLinkContainer{
         display: flex;
         justify-content: space-between;
