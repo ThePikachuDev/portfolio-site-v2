@@ -4,7 +4,7 @@
 
 <br>
 
-you may have read my previous [blog](https://pikachusite.vercel.app/blogs/LinuxExp) and know about my experience with mint and fedora linux , so in this blog i will share my Arch linux experience , share some pretty good resources in the end and also some cool and crazy tools that i am using in my current setup.
+you may have read my previous [blog](https://pikachusite.vercel.app/blogs/LinuxExp) and know about my experience with mint and fedora linux , so in this blog i will share my Arch linux experience , share some pretty good resources and also some cool tools that i am using in my current setup.
 
 
 <br>
@@ -26,31 +26,54 @@ So when i freshly installed Arch , i installed KDE plasma as my desktop enviourn
 
 <br>
 
-<img src="/static/hyprwm1.png">
-<img src="/static/hyprwm2.png">
-<img src="/static/hyprwm3.png">
+<img alt="rice img1" src="/hyprwm1.png">
+<img alt="rice img2" src="/hyprwm2.png">
+<img alt="rice img3" src="/hyprwm3.png">
 
+<br>
 <br>
 
 **List of Apps and tools i use:**
 
 <br>
 
-- For Listening to music : [Kew cli](https://github.com/ravachol/kew?tab=readme-ov-file) ( to listen local songs ) , [tuisic-cli](https://github.com/Dark-Kernel/tuisic) ( listen to online music rightaway )
+- For Listening to music : 
+    - [Kew cli](https://github.com/ravachol/kew?tab=readme-ov-file) ( to listen local songs ) 
+    - [tuisic-cli](https://github.com/Dark-Kernel/tuisic) ( listen to online music rightaway )
 
-- For anime streaming : [Fastanime](https://github.com/Benexl/FastAnime) or [ani-cli](https://github.com/pystardust/ani-cli) for anime streaming through terminal   
+- For anime streaming :
+    - [Fastanime](https://github.com/Benexl/FastAnime) for anime streaming through terminal   
 
-- For Manga reading : [Manga-tui](https://github.com/josueBarretogit/manga-tui) and [zathura](https://github.com/pwmt/zathura) for reading pdfs inside terminal
+- For Manga reading : 
+    - [Manga-tui](https://github.com/josueBarretogit/manga-tui)
+    - [zathura](https://github.com/pwmt/zathura) for reading pdfs inside terminal
 
 - File management : [superfile](https://github.com/yorukot/superfile?tab=readme-ov-file#hotkeys)
 
-- my favourite games : [xonotic](https://xonotic.org/) , [superTuxKart](https://supertuxkart.net/Main_Page), [PokeMMO](https://pokemmo.com/en/).
+- my favourite games :
+    - [xonotic](https://xonotic.org/) 
+    - [superTuxKart](https://supertuxkart.net/Main_Page)
+    - [PokeMMO](https://pokemmo.com/en/).
 
-- Some games i had installed but haven't played much : 0ad , Mindustry, Crash : Mind Over Mutants ( PSP ) . 
+- Some games i had installed but haven't played much :
+    - 0ad 
+    - Mindustry 
+    - Crash : Mind Over Mutants ( PSP ) . 
  
 - For notetaking and studies : [Obsidian](https://obsidian.md/)
 
-- For coding : VScode for webApps , neovim for doing quick tweaks inside terminal
+- For coding : 
+    - VScode for coding webApps 
+    - neovim for doing quick tweaks inside terminal
+
+- Cool tools : 
+    - [tptable](https://github.com/velorek1/terminalperiodictable) -  periodic table inside terminal. 
+    - [krabby](https://github.com/yannjor/krabby) - prints Pokemon sprites in terminal.
+
+
+
+<br>
+
 
 
 
@@ -80,6 +103,10 @@ a{
 
   ul li {
     margin: 1rem 0;
+  }
+
+  ul li ul li {
+    margin-left: 3rem;
   }
 </style>
 
