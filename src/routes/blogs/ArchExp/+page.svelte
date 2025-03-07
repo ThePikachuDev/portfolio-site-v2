@@ -5,7 +5,6 @@
 
 
 <div>
-    <!-- Twitter Meta Tags -->
     <ArchExp />
 </div>
 

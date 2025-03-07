@@ -23,6 +23,7 @@
         <li>One Piece</li>
         <li>Your Name</li>
         <li>Terror in Resonance</li>
+        <li>Sakamoto Days</li>
 
     </ul>
 

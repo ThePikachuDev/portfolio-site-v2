@@ -5,13 +5,13 @@
 <div class="footerContainer">
     <div class="contacts">
         <a href="https://github.com/ThePikachuDev" class="contactLink">
-            <img src="../../github-logo.svg" alt="github-logo" class="logo">
+            <img src="../../github-logo-duotone.svg" alt="github-logo" class="logo">
         </a>
         <a href="https://discordapp.com/users/1237395043669639233" class="contactLink">
-            <img src="../../discord-icon.png" alt="discord-logo" class="logo">
+            <img src="../../discord-white-logo.png" alt="discord-logo" class="logo">
         </a>
         <a href="https://x.com/ThePikachuDev" class="contactLink">
-            <img src="../../x-logo.svg" alt="X-logo" class="logo">
+            <img src="../../x-logo-duotone.svg" alt="X-logo" class="logo">
         </a>
     </div>
     <div class="madeWith">Made With <a href="https://svelte.dev/">Svelte</a></div>
@@ -39,6 +39,10 @@
     }
     .contactLink img{
         width: 1.5rem;
+        /* color: white;
+        background-color: rgb(226, 218, 218);
+        padding: 2px;
+        border-radius: 5px; */
     }
 
     .madeWith a{

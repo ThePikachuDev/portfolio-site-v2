@@ -44,8 +44,7 @@
   .yetAnotherContainer{
     display: inline-block;
     position: relative;
-    width: 60vw;
-    border: 1.5px solid white;
+    width: 80vw;
     padding: 2vw;
     border-radius: 10px;
   }
@@ -108,11 +107,11 @@
     p{
     line-height: 1.3rem;
     word-spacing: 1px;
-    font-size: small;
+    font-size: 14px;
   }
 
   h4{
-    font-size: small;
+    font-size: 12px;
     color: rgb(163, 167, 171);
   }
 
