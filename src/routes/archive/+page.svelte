@@ -11,7 +11,7 @@
     <h2>Anime i have watched :</h2>
     <br>
     <ul>
-        <li>Naruot</li>
+        <li>Naruto</li>
         <li>Pokemon</li>
         <li>Demon Slayer</li>
         <li>Spy x Family </li>
