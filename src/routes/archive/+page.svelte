@@ -24,6 +24,8 @@
         <li>Your Name</li>
         <li>Terror in Resonance</li>
         <li>Sakamoto Days</li>
+        <li>Bleach</li>
+        <li>Shangri la frontier</li>
 
     </ul>
 
