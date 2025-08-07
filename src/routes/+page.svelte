@@ -190,7 +190,7 @@
 
             <!-- <a href="/blogs/ArchExp" class="blogLinkContainer"> -->
             <a
-                class="flex justify-between font-lg text-lg px-5 my-3 w-2/3"
+                class="flex justify-between hover:bg-stone-700 font-lg text-lg px-5 my-3 w-2/3"
                 href="/blogs/ArchExp"
             >
                 <h2 class="w-fit">My Arch Linux Exp.</h2>
@@ -198,7 +198,7 @@
             </a>
 
             <a
-                class="flex justify-between font-lg text-lg px-5 my-3 w-2/3"
+                class="flex justify-between hover:bg-stone-700 font-lg text-lg px-5 my-3 w-2/3"
                 href="/blogs/LinuxExp"
             >
                 <h2 class="w-fit">My Linux Exp.</h2>
@@ -212,18 +212,10 @@
     .homeContainer {
         font-family: "Poppins", monospace;
         font-style: normal;
-        /* display: flex; */
-        /* align-items: center; */
-        /* justify-content: center; */
         position: relative;
         width: 100vw;
     }
 
-    /* .underline_text { */
-    /*     text-decoration: underline; */
-    /*     font-weight: 500; */
-    /*     font-size: 1rem; */
-    /* } */
     .yetAnotherContainer {
         display: inline-block;
         position: relative;

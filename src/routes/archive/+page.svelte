@@ -2,7 +2,7 @@
     import Header from "../header.svelte";
 </script>
 
-<main>
+<main class="">
     <br />
 
     <!-- <h2>Anime i have watched :</h2> -->
@@ -66,7 +66,6 @@
     main {
         overflow: hidden;
         width: 100vw;
-        height: fit-content;
     }
 
     h2 {

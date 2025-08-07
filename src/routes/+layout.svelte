@@ -4,10 +4,7 @@
     import Footer from "./footer.svelte";
 </script>
 
-<main>
-    <Header />
-</main>
+<Header />
 
 {@render children()}
-
 <Footer />
