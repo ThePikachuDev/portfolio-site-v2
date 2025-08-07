@@ -48,13 +48,147 @@
         </div>
 
         <br />
-        <!-- <div class="projectsPage"> -->
-        <!--     <h1 class="text-2xl font-bold">Projects</h1> -->
-        <!---->
-        <!--     <div class="projectContainer pt-10 mt-5"> -->
-        <!--         <div class="projectItem w-60 h-40 bg-zinc-500"></div> -->
-        <!--     </div> -->
-        <!-- </div> -->
+        <div class="projectsPage">
+            <h1 class="text-xl font-bold">Projects</h1>
+
+            <div
+                class="projectContainer mt-5 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2"
+            >
+                <a
+                    target="_blank"
+                    href="https://github.com/ThepikachuDev/gh-dlp"
+                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-2"
+                >
+                    <h2 class="text-lg font-semibold">gh-dlp</h2>
+                    <p class="text-sm">
+                        A cli tool to download a subfolder of a github repo.
+                    </p>
+                    <div class="techContainer flex gap-2">
+                        <div class="bg-stone-700 p-[5px] text-sm font-md">
+                            Golang
+                        </div>
+
+                        <div class="bg-stone-700 p-[5px] text-sm font-md">
+                            150+ clones
+                        </div>
+
+                        <div class="bg-stone-700 p-[5px] text-sm font-md">
+                            15+ stars
+                        </div>
+                    </div>
+                </a>
+                <a
+                    target="_blank"
+                    href="https://github.com/ThePikachuDev/chessz"
+                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-2"
+                >
+                    <h2 class="text-lg font-semibold">chessz</h2>
+                    <p class="text-sm">
+                        A chess game written in zig and raylib. ( WIP )
+                    </p>
+                    <div class="techContainer flex gap-2">
+                        <div class="bg-stone-700 p-[5px] text-sm font-md">
+                            zig
+                        </div>
+                        <div class="bg-stone-700 p-[5px] text-sm font-md">
+                            game dev
+                        </div>
+
+                        <div class="bg-stone-700 p-[5px] text-sm font-md">
+                            raylib
+                        </div>
+                    </div>
+                </a>
+                <a
+                    target="_blank"
+                    href="https://github.com/ThePikachuDev/Discord-bot"
+                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-2"
+                >
+                    <h2 class="text-lg font-semibold">discord quiz bot</h2>
+                    <p class="text-sm">
+                        A discord quiz bot built using discord.js.
+                    </p>
+                    <div class="techContainer flex gap-2">
+                        <div class="bg-stone-700 p-[5px] text-sm font-md">
+                            discord.js
+                        </div>
+
+                        <div class="bg-stone-700 p-[5px] text-sm font-md">
+                            javascript
+                        </div>
+                    </div>
+                </a>
+                <a
+                    target="_blank"
+                    href="https://github.com/ThePikachuDev/Chess-Project"
+                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-2"
+                >
+                    <h2 class="text-lg font-semibold">chess</h2>
+                    <p class="text-sm">
+                        A realtime chess game built using socked.io and node js.
+                    </p>
+                    <div class="techContainer flex gap-2">
+                        <div class="bg-stone-700 p-[5px] text-sm font-md">
+                            socket.io
+                        </div>
+                        <div class="bg-stone-700 p-[5px] text-sm font-md">
+                            node js
+                        </div>
+                        <div class="bg-stone-700 p-[5px] text-sm font-md">
+                            javascript
+                        </div>
+                    </div>
+                </a>
+
+                <a
+                    target="_blank"
+                    href="https://github.com/ThePikachuDev/sundown-Studios"
+                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-2"
+                >
+                    <h2 class="text-lg font-semibold">
+                        Sundown Studios site clone
+                    </h2>
+                    <p class="text-sm">
+                        A modern and fully animated website for modern
+                        companies.
+                    </p>
+                    <div class="techContainer flex gap-2">
+                        <div class="bg-stone-700 p-[5px] text-sm font-md">
+                            HTML
+                        </div>
+                        <div class="bg-stone-700 p-[5px] text-sm font-md">
+                            CSS
+                        </div>
+
+                        <div class="bg-stone-700 p-[5px] text-sm font-md">
+                            Javascript
+                        </div>
+                    </div>
+                </a>
+                <a
+                    target="_blank"
+                    href="https://github.com/ThePikachuDev/dotfiles"
+                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-2"
+                >
+                    <h2 class="text-lg font-semibold">Dotfiles</h2>
+                    <p class="text-sm">
+                        my minimal and productive linux setup dotfiles.
+                    </p>
+                    <div class="techContainer flex gap-2">
+                        <div class="bg-stone-700 p-[5px] text-sm font-md">
+                            Hyprland
+                        </div>
+                        <div class="bg-stone-700 p-[5px] text-sm font-md">
+                            i3wm
+                        </div>
+
+                        <div class="bg-stone-700 p-[5px] text-sm font-md">
+                            neovim
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
     </span>
 </main>
 
@@ -67,7 +201,6 @@
         /* justify-content: center; */
         position: relative;
         width: 100vw;
-        height: calc(100vh - 5rem);
     }
 
     /* .underline_text { */
@@ -171,8 +304,8 @@
     }
 
     :global(*) {
-        margin: 0;
-        padding: 0;
+        /* margin: 0; */
+        /* padding: 0; */
         box-sizing: border-box;
         font-family: "IBM Plex Mono", monospace;
         font-style: normal;
