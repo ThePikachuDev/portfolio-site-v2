@@ -52,7 +52,7 @@
             <h1 class="text-xl font-bold">Projects</h1>
 
             <div
-                class="projectContainer mt-5 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2"
+                class="projectContainer mt-5 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3"
             >
                 <a
                     target="_blank"
@@ -182,6 +182,28 @@
                     </div>
                 </a>
             </div>
+        </div>
+
+        <br />
+        <div class="blogsSection">
+            <h1 class="text-xl font-bold">Blogs</h1>
+
+            <!-- <a href="/blogs/ArchExp" class="blogLinkContainer"> -->
+            <a
+                class="flex justify-between font-lg text-lg px-5 my-3 w-2/3"
+                href="/blogs/ArchExp"
+            >
+                <h2 class="w-fit">My Arch Linux Exp.</h2>
+                <h2 class="w-fit">6-3-2025</h2>
+            </a>
+
+            <a
+                class="flex justify-between font-lg text-lg px-5 my-3 w-2/3"
+                href="/blogs/LinuxExp"
+            >
+                <h2 class="w-fit">My Linux Exp.</h2>
+                <h2 class="w-fit">1-1-2025</h2>
+            </a>
         </div>
     </span>
 </main>

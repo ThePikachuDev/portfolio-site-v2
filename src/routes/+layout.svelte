@@ -10,5 +10,4 @@
 
 {@render children()}
 
-<!-- <Footer /> -->
-
+<Footer />
