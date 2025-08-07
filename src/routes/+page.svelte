@@ -268,8 +268,6 @@
     @media (max-width: 600px) {
         .homeContainer {
             display: block;
-            width: 100vw;
-            height: calc(100vh - 5rem);
         }
 
         .yetAnotherContainer {
@@ -342,8 +340,6 @@
     }
 
     :global(html, body) {
-        width: 100vw;
-        height: 100vh;
         margin: 0;
         padding: 0;
         background-color: rgb(31, 27, 27);
