@@ -142,26 +142,20 @@
 
                 <a
                     target="_blank"
-                    href="https://github.com/ThePikachuDev/sundown-Studios"
+                    href="https://github.com/ThePikachuDev/portfolio-site-v2"
                     class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-2"
                 >
-                    <h2 class="text-lg font-semibold">
-                        Sundown Studios site clone
-                    </h2>
+                    <h2 class="text-lg font-semibold">my portfolio site</h2>
                     <p class="text-sm">
-                        A modern and fully animated website for modern
-                        companies.
+                        A minmial and modern portfolio site written in svelte.
                     </p>
                     <div class="techContainer flex gap-2">
                         <div class="bg-stone-700 p-[5px] text-sm font-md">
-                            HTML
-                        </div>
-                        <div class="bg-stone-700 p-[5px] text-sm font-md">
-                            CSS
+                            Svelte
                         </div>
 
                         <div class="bg-stone-700 p-[5px] text-sm font-md">
-                            Javascript
+                            TailwindCss
                         </div>
                     </div>
                 </a>
