@@ -2,10 +2,10 @@
 </script>
 
 <nav>
-    <ul>
-        <li><a href="/">[h]home</a></li>
-        <li><a href="/blogs">./Blogs</a></li>
-        <li><a href="/archive">./Archive</a></li>
+    <ul class="">
+        <li><a href="/">home</a></li>
+        <li><a href="/blogs">blogs</a></li>
+        <li><a href="/archive">archive</a></li>
     </ul>
 </nav>
 
@@ -26,11 +26,10 @@
         list-style-type: none;
         font-size: 18px;
         font-weight: 700;
-        padding: 1rem;
     }
 
     a {
-        text-decoration: none;
+        text-decoration: underline;
         color: rgb(194, 196, 196);
     }
 </style>

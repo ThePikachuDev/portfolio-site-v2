@@ -4,7 +4,8 @@
     import Footer from "./footer.svelte";
 </script>
 
-<Header />
-
-{@render children()}
-<Footer />
+<main class="py-3 px-8">
+    <Header />
+    {@render children()}
+    <Footer />
+</main>

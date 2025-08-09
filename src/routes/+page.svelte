@@ -220,7 +220,6 @@
         display: inline-block;
         position: relative;
         width: 80vw;
-        padding: 2vw;
         border-radius: 10px;
     }
 
@@ -327,7 +326,7 @@
         color: azure;
         font-family: "IBM Plex Mono", monospace;
         font-style: normal;
-        padding: 0 2rem;
+        /* padding: 0 2rem; */
         overflow: hidden;
     }
 
