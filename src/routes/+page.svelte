@@ -57,13 +57,13 @@
                 <a
                     target="_blank"
                     href="https://github.com/ThepikachuDev/gh-dlp"
-                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-2"
+                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-zinc-300"
                 >
                     <h2 class="text-lg font-semibold">gh-dlp</h2>
                     <p class="text-sm">
                         A cli tool to download a subfolder of a github repo.
                     </p>
-                    <div class="techContainer flex gap-2">
+                    <div class="techContainer flex gap-1">
                         <div class="bg-stone-700 p-[5px] text-sm font-md">
                             Golang
                         </div>
@@ -80,13 +80,13 @@
                 <a
                     target="_blank"
                     href="https://github.com/ThePikachuDev/chessz"
-                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-2"
+                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-zinc-300"
                 >
                     <h2 class="text-lg font-semibold">chessz</h2>
                     <p class="text-sm">
                         A chess game written in zig and raylib. ( WIP )
                     </p>
-                    <div class="techContainer flex gap-2">
+                    <div class="techContainer flex gap-1">
                         <div class="bg-stone-700 p-[5px] text-sm font-md">
                             zig
                         </div>
@@ -102,13 +102,13 @@
                 <a
                     target="_blank"
                     href="https://github.com/ThePikachuDev/Discord-bot"
-                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-2"
+                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-zinc-300"
                 >
                     <h2 class="text-lg font-semibold">discord quiz bot</h2>
                     <p class="text-sm">
                         A discord quiz bot built using discord.js.
                     </p>
-                    <div class="techContainer flex gap-2">
+                    <div class="techContainer flex gap-1">
                         <div class="bg-stone-700 p-[5px] text-sm font-md">
                             discord.js
                         </div>
@@ -121,18 +121,18 @@
                 <a
                     target="_blank"
                     href="https://github.com/ThePikachuDev/Chess-Project"
-                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-2"
+                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-zinc-300"
                 >
                     <h2 class="text-lg font-semibold">chess</h2>
                     <p class="text-sm">
                         A realtime chess game built using socked.io and node js.
                     </p>
-                    <div class="techContainer flex gap-2">
+                    <div class="techContainer flex gap-1">
                         <div class="bg-stone-700 p-[5px] text-sm font-md">
                             socket.io
                         </div>
                         <div class="bg-stone-700 p-[5px] text-sm font-md">
-                            node js
+                            node_js
                         </div>
                         <div class="bg-stone-700 p-[5px] text-sm font-md">
                             javascript
@@ -143,13 +143,13 @@
                 <a
                     target="_blank"
                     href="https://github.com/ThePikachuDev/portfolio-site-v2"
-                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-2"
+                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-zinc-300"
                 >
                     <h2 class="text-lg font-semibold">my portfolio site</h2>
                     <p class="text-sm">
                         A minmial and modern portfolio site written in svelte.
                     </p>
-                    <div class="techContainer flex gap-2">
+                    <div class="techContainer flex gap-1">
                         <div class="bg-stone-700 p-[5px] text-sm font-md">
                             Svelte
                         </div>
@@ -162,13 +162,13 @@
                 <a
                     target="_blank"
                     href="https://github.com/ThePikachuDev/dotfiles"
-                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-2"
+                    class="projectItem h-fit p-3 flex flex-col gap-3 border-1 border-zinc-500 hover:border-zinc-300"
                 >
                     <h2 class="text-lg font-semibold">Dotfiles</h2>
                     <p class="text-sm">
                         my minimal and productive linux setup dotfiles.
                     </p>
-                    <div class="techContainer flex gap-2">
+                    <div class="techContainer flex gap-1">
                         <div class="bg-stone-700 p-[5px] text-sm font-md">
                             Hyprland
                         </div>
