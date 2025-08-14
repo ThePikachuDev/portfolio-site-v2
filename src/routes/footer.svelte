@@ -25,7 +25,8 @@
         </a>
     </div>
     <div class="madeWith">
-        Made With <a href="https://svelte.dev/">Svelte</a>
+        Made With <a class="underline" href="https://svelte.dev/">Svelte</a> and
+        Love ♥️
     </div>
 </div>
 
@@ -34,10 +35,6 @@
         display: flex;
         align-items: center;
         justify-content: space-between;
-        /* bottom: 0;
-        left: 0; */
-        width: 100vw;
-        padding: 1vw 2vw;
     }
     .contacts {
         display: flex;
@@ -49,15 +46,9 @@
     }
     .contactLink img {
         width: 1.5rem;
-        /* color: white;
-        background-color: rgb(226, 218, 218);
-        padding: 2px;
-        border-radius: 5px; */
     }
 
     .madeWith a {
-        text-decoration: none;
         color: rgb(181, 181, 181);
     }
 </style>
-
