@@ -257,18 +257,18 @@
     }
 
     @media (max-width: 600px) {
-        .homeContainer {
-            display: block;
-        }
-
-        .yetAnotherContainer {
-            display: inline;
-            position: static;
-            width: 100%;
-            border: 0;
-            padding: 0;
-            border-radius: 0;
-        }
+        /*     .homeContainer { */
+        /*         display: block; */
+        /*     } */
+        /**/
+        /*     .yetAnotherContainer { */
+        /*         display: inline; */
+        /*         position: static; */
+        /*         width: 100%; */
+        /*         border: 0; */
+        /*         padding: 0; */
+        /*         border-radius: 0; */
+        /*     } */
     }
 
     @media (max-width: 440px) {

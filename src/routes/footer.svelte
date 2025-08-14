@@ -35,6 +35,7 @@
         display: flex;
         align-items: center;
         justify-content: space-between;
+        padding: 1vw 0;
     }
     .contacts {
         display: flex;
@@ -50,5 +51,22 @@
 
     .madeWith a {
         color: rgb(181, 181, 181);
+    }
+
+    @media (max-width: 600px) {
+        .footerContainer {
+            font-size: 0.8rem;
+            padding: 1vw 0;
+        }
+        .contactLink {
+            width: 1.3rem;
+        }
+        .contactLink img {
+            width: 1.5rem;
+        }
+
+        .madeWith {
+            text-align: right;
+        }
     }
 </style>

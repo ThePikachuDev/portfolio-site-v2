@@ -7,6 +7,7 @@
 
     <a href="/blogs/ArchExp" class="blogLinkContainer">
         <h4>My Arch Linux Experience</h4>
+
         <span>6-3-2025</span>
     </a>
     <br />
@@ -18,18 +19,33 @@
 
 <style>
     main {
-        width: 100vw;
+        width: 100%;
         height: 90vh;
     }
     .blogLinkContainer {
         display: flex;
         justify-content: space-between;
-        padding: 2px 1rem;
     }
 
     a {
         text-decoration: none;
         color: #e4dddd;
     }
-</style>
 
+    @media (max-width: 600px) {
+        main {
+            width: 100%;
+            height: 90vh;
+        }
+        .blogLinkContainer {
+            display: flex;
+            justify-content: space-between;
+            padding: 0;
+        }
+
+        a {
+            text-decoration: none;
+            color: #e4dddd;
+        }
+    }
+</style>

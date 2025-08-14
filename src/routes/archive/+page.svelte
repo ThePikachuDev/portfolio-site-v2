@@ -26,10 +26,10 @@
     <!---->
     <!-- </ul> -->
 
-    <h2>Cool Blogs i grabbed from internet</h2>
+    <h2>Cool Blogs i grabbed from internet :</h2>
     <br />
-    <ul class="underline underline-offset-5">
-        <li>
+    <ul class="underline underline-offset-5 list-disc">
+        <li class="list-disc">
             <a
                 href="https://dev.to/gitpaulo/journey-of-a-web-page-how-browsers-work-10co"
                 >Journey of a web Page to how browsers Work</a
@@ -48,31 +48,15 @@
     </ul>
 
     <br />
-
-    <!-- <h2>Books i read ( or reading)</h2> -->
-    <!-- <br /> -->
-    <!-- <ul> -->
-    <!--     <li>Zero To One</li> -->
-    <!--     <li>How to Win Friends and influence people</li> -->
-    <!--     <li>Rich Dad Poor Dad</li> -->
-    <!--     <li>The Go Programming language</li> -->
-    <!-- </ul> -->
-
-    <br />
-    <br />
 </main>
 
 <style>
-    main {
-        overflow: hidden;
-        width: 100vw;
-    }
-
     h2 {
         color: #e4dddd;
     }
 
     ul li {
+        list-style-type: circle;
         color: rgb(194, 196, 196);
         padding: 4px;
     }
